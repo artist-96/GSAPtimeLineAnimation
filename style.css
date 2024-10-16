@@ -75,6 +75,7 @@ i{
     position: absolute;
     top: 2%;
     right: 5%;
+    color: red;
     filter: drop-shadow(2px 4px 5px black);
     cursor: pointer;
 }
